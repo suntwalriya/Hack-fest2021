@@ -4,6 +4,12 @@
 ![GitHub stars](https://img.shields.io/github/stars/carrisunrio/Hack-fest2020)
 ![GitHub forks](https://img.shields.io/github/forks/carrisunrio/Hack-fest2020)
 
+## What all you can make as a PR?
+1.Algorithms(written in language C++,C,Java)
+2.Design Pages
+3.HTML webpages (CSS included)
+[levels:basic,medium,hard all accepted]
+
 ## Steps to make a Successful PR for Hacktoberfest2020 
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to <project_name>, follow these steps:
