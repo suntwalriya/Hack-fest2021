@@ -9,7 +9,7 @@
 2. Design Pages
 3. HTML webpages (CSS included)
 
-[levels:basic,medium,hard all accepted]
+[levels:basic,medium,hard - all accepted]
 
 ## Steps to make a Successful PR for Hacktoberfest2020 
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
