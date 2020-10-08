@@ -1,8 +1,8 @@
 # Hack-fest2020
 
-![GitHub issues](https://img.shields.io/github/issues/dscigdtuw/GrowGreen)
-![GitHub stars](https://img.shields.io/github/stars/dscigdtuw/GrowGreen)
-![GitHub forks](https://img.shields.io/github/forks/dscigdtuw/GrowGreen)
+![GitHub issues](https://img.shields.io/github/issues/carrisunrio/Hack-fest2020)
+![GitHub stars](https://img.shields.io/github/stars/carrisunrio/Hack-fest2020)
+![GitHub forks](https://img.shields.io/github/forks/carrisunrio/Hack-fest2020)
 
 ## Steps to make a Successful PR 
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
