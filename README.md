@@ -11,7 +11,7 @@
 
 [levels:basic,medium,hard - all accepted]
 
-## Steps to make a Successful PR for Hacktoberfest2020 
+## Steps to make a Successful PR for Hacktoberfest2021
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to <project_name>, follow these steps:
 
