@@ -1,4 +1,4 @@
-# Hack-fest2020
+# Hack-fest2021
 
 ![GitHub issues](https://img.shields.io/github/issues/carrisunrio/Hack-fest2020)
 ![GitHub stars](https://img.shields.io/github/stars/carrisunrio/Hack-fest2020)
